@@ -1,0 +1,4 @@
+# names if the file that we do not want be tracked by git
+*.log
+*.php
+*.csv
